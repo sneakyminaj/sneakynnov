@@ -1,0 +1,33 @@
+.container{
+	width: 50%;
+}
+
+h1{
+	color: white;
+}
+
+h2{
+	margin: auto;
+	width: 50%;
+	color:white;
+}
+
+p{
+	color:white;
+}
+
+label{
+	color:white;
+}
+
+body{
+	background-image:url(../img/light.jpeg);
+	background-size: 100%;
+}
+
+img {
+	display: block;
+	width: 50%;
+	height: 50%;
+	margin: auto;
+}
